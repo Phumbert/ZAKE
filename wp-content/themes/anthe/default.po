@@ -1,0 +1,643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TranslateMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-10 12:08+0500\n"
+"PO-Revision-Date: 2013-05-10 12:08+0500\n"
+"Last-Translator: Alaja <support@alaja.info>\n"
+"Language-Team: Alaja <support@alaja.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:16
+msgid "Discussion"
+msgstr ""
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed for now."
+msgstr ""
+
+#: comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:48
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: comments.php:51
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:53
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:54
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "(edit)"
+msgstr ""
+
+#: comments.php:91
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:134
+msgid ""
+"To recreate a special page, please consider: \n"
+"\n"
+"* Page Attributes &rarr; Template option as a place to look for custom "
+"templates \n"
+"\n"
+"* Shortcode Manager as a tool to insert special page content or other "
+"helpful examples"
+msgstr ""
+
+#: searchform.php:3
+msgid "Type keywords to find"
+msgstr ""
+
+#: single-item.functions.php:28 single-item.functions.php:53
+msgid "Media Content"
+msgstr ""
+
+#: single-item.functions.php:29
+msgid "Help"
+msgstr ""
+
+#: single-item.functions.php:31
+msgid ""
+"Place here an image gallery shortcode (Add Media &rarr; Create Gallery) or "
+"video-page URL starting with http://"
+msgstr ""
+
+#: single-item.functions.php:39
+msgid "Add Media"
+msgstr ""
+
+#: single.php:25
+msgid "Next Work"
+msgstr ""
+
+#: single.php:27
+msgid "Next Post"
+msgstr ""
+
+#: template-journal.core.php:64
+msgid "View more posts&hellip;"
+msgstr ""
+
+#: template-works.core.php:98
+msgid "View all works&hellip;"
+msgstr ""
+
+#: tile-item.dynamic.php:9 tile-item.php:6 tile-singlepage.item.php:6
+msgid "Read more &rarr;"
+msgstr ""
+
+#: tile-navigation.php:7
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: 3rd/admin/options-framework.php:266
+msgid "Default options restored."
+msgstr ""
+
+#: 3rd/admin/options-framework.php:307
+msgid "Options saved."
+msgstr ""
+
+#: 3rd/admin/options-framework.php:363
+msgid "Theme Options"
+msgstr ""
+
+#: 3rd/admin/options-medialibrary-uploader.php:161
+msgid "View File"
+msgstr ""
+
+#: 3rd/admin/options-medialibrary-uploader.php:298
+msgid "Gallery"
+msgstr ""
+
+#: 3rd/admin/options-medialibrary-uploader.php:298
+msgid "Previously Uploaded"
+msgstr ""
+
+#: theme/extend.php:10
+msgid "Add New"
+msgstr ""
+
+#: theme/extend.php:11
+msgid "Add New Portfolio Work"
+msgstr ""
+
+#: theme/extend.php:12
+msgid "Edit Work"
+msgstr ""
+
+#: theme/extend.php:13
+msgid "Works"
+msgstr ""
+
+#: theme/extend.php:14
+msgid "New Work"
+msgstr ""
+
+#: theme/extend.php:15
+msgid "No portfolio works found"
+msgstr ""
+
+#: theme/extend.php:16
+msgid "No works found in Trash"
+msgstr ""
+
+#: theme/extend.php:17
+msgid "Search Works"
+msgstr ""
+
+#: theme/extend.php:18
+msgid "Work"
+msgstr ""
+
+#: theme/extend.php:19
+msgid "View Work"
+msgstr ""
+
+#: theme/metabox.page.php:47
+msgid "Page Style"
+msgstr ""
+
+#: theme/metabox.page.php:53 theme/metabox.post.php:52
+#: theme/metabox.work.php:55
+msgid "Image Fill Style"
+msgstr ""
+
+#: theme/metabox.page.php:59 theme/metabox.post.php:58
+#: theme/metabox.work.php:61
+msgid "Simple Background Image (Original size)"
+msgstr ""
+
+#: theme/metabox.page.php:60 theme/metabox.post.php:59
+#: theme/metabox.work.php:62
+msgid "Dark Background (fit in Titles)"
+msgstr ""
+
+#: theme/metabox.page.php:61 theme/metabox.post.php:60
+#: theme/metabox.work.php:63
+msgid "Dark Background (fit in Fullpage)"
+msgstr ""
+
+#: theme/metabox.page.php:64 theme/metabox.post.php:63
+#: theme/metabox.work.php:66
+msgid "Image Source"
+msgstr ""
+
+#: theme/metabox.page.php:71 theme/metabox.page.php:270
+#: theme/metabox.page.php:295 theme/metabox.page.php:320
+#: theme/metabox.page.php:366 theme/metabox.page.php:391
+#: theme/metabox.page.php:416 theme/metabox.post.php:70
+#: theme/metabox.work.php:73
+msgid "Upload"
+msgstr ""
+
+#: theme/metabox.page.php:85
+msgid "Single Page Setup"
+msgstr ""
+
+#: theme/metabox.page.php:86
+msgid ""
+"Single-page creation process is an automatic gluing of trivial pages that "
+"have been already created. So first <a href=\"nav-menus.php\">create a menu</"
+"a>, fill it with pages, then select here the menu you created. Anthe will do "
+"the rest."
+msgstr ""
+
+#: theme/metabox.page.php:91
+msgid "Construction Menu"
+msgstr ""
+
+#: theme/metabox.page.php:110
+msgid "Contact Page Settings"
+msgstr ""
+
+#: theme/metabox.page.php:118
+msgid "Map Latitude"
+msgstr ""
+
+#: theme/metabox.page.php:125
+msgid "Map Longitude"
+msgstr ""
+
+#: theme/metabox.page.php:126
+msgid "Don't drop leading '+' or '-' if available"
+msgstr ""
+
+#: theme/metabox.page.php:132
+msgid "Map Zoom"
+msgstr ""
+
+#: theme/metabox.page.php:138
+msgid "City Bird"
+msgstr ""
+
+#: theme/metabox.page.php:139
+msgid "Hot Air Balloon"
+msgstr ""
+
+#: theme/metabox.page.php:140
+msgid "Corporate Helicopter"
+msgstr ""
+
+#: theme/metabox.page.php:141
+msgid "Aeroplane"
+msgstr ""
+
+#: theme/metabox.page.php:142
+msgid "Sputnik"
+msgstr ""
+
+#: theme/metabox.page.php:145
+msgid "Map Style"
+msgstr ""
+
+#: theme/metabox.page.php:151
+msgid "Google Default"
+msgstr ""
+
+#: theme/metabox.page.php:152
+msgid " Special"
+msgstr ""
+
+#: theme/metabox.page.php:166
+msgid "Services Page Setup"
+msgstr ""
+
+#: theme/metabox.page.php:167
+msgid ""
+"Choose the pages, from what content will be fetched (Page titles, content "
+"&amp; Featured Images as slides)."
+msgstr ""
+
+#: theme/metabox.page.php:172
+msgid "First Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:173 theme/metabox.page.php:181
+#: theme/metabox.page.php:189 theme/metabox.page.php:221
+#: theme/metabox.page.php:229 theme/metabox.page.php:237
+#: theme/metabox.page.php:450 theme/metabox.page.php:465
+#: theme/metabox.page.php:480 theme/metabox.page.php:512
+#: theme/metabox.page.php:527 theme/metabox.page.php:542
+msgid "Choose a source page"
+msgstr ""
+
+#: theme/metabox.page.php:180
+msgid "Second Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:188
+msgid "Third Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:196
+msgid "Slider Max Height"
+msgstr ""
+
+#: theme/metabox.page.php:214
+msgid "Services Page Setup #2"
+msgstr ""
+
+#: theme/metabox.page.php:220
+msgid "Fourth Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:228
+msgid "Fifth Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:236
+msgid "Sixth Service Content"
+msgstr ""
+
+#: theme/metabox.page.php:257
+msgid "Fullscreen Slide Setup"
+msgstr ""
+
+#: theme/metabox.page.php:263
+msgid "Slide Image I"
+msgstr ""
+
+#: theme/metabox.page.php:273 theme/metabox.page.php:298
+#: theme/metabox.page.php:323 theme/metabox.page.php:369
+#: theme/metabox.page.php:394 theme/metabox.page.php:419
+msgid "Main Copy"
+msgstr ""
+
+#: theme/metabox.page.php:280 theme/metabox.page.php:305
+#: theme/metabox.page.php:330 theme/metabox.page.php:376
+#: theme/metabox.page.php:401 theme/metabox.page.php:426
+msgid "Foot Copy"
+msgstr ""
+
+#: theme/metabox.page.php:288
+msgid "Slide Image II"
+msgstr ""
+
+#: theme/metabox.page.php:313
+msgid "Slide Image III"
+msgstr ""
+
+#: theme/metabox.page.php:353
+msgid "Fullscreen Slide Setup #2"
+msgstr ""
+
+#: theme/metabox.page.php:359
+msgid "Slide Image IV"
+msgstr ""
+
+#: theme/metabox.page.php:384
+msgid "Slide Image V"
+msgstr ""
+
+#: theme/metabox.page.php:409
+msgid "Slide Image VI"
+msgstr ""
+
+#: theme/metabox.page.php:443
+msgid "Process Page Setup"
+msgstr ""
+
+#: theme/metabox.page.php:449
+msgid "First Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:457
+msgid "First Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:458 theme/metabox.page.php:473
+#: theme/metabox.page.php:488 theme/metabox.page.php:520
+#: theme/metabox.page.php:535 theme/metabox.page.php:550
+msgid "Hand-crafted summary"
+msgstr ""
+
+#: theme/metabox.page.php:464
+msgid "Second Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:472
+msgid "Second Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:479
+msgid "Third Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:487
+msgid "Third Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:505
+msgid "Process Page Setup #2"
+msgstr ""
+
+#: theme/metabox.page.php:511
+msgid "Fourth Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:519
+msgid "Fourth Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:526
+msgid "Fifth Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:534
+msgid "Fifth Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:541
+msgid "Sixth Step Content"
+msgstr ""
+
+#: theme/metabox.page.php:549
+msgid "Sixth Step Excerpt"
+msgstr ""
+
+#: theme/metabox.page.php:567
+msgid "Works Options"
+msgstr ""
+
+#: theme/metabox.page.php:568
+msgid ""
+"This page will render all your <a href=\"edit.php?post_type=item\">Works</a> "
+"according to these settings:"
+msgstr ""
+
+#: theme/metabox.page.php:573
+msgid "Category Filter"
+msgstr ""
+
+#: theme/metabox.page.php:581
+msgid "Ordering"
+msgstr ""
+
+#: theme/metabox.post.php:20 theme/metabox.work.php:89
+msgid "Additional"
+msgstr ""
+
+#: theme/metabox.post.php:26 theme/metabox.work.php:95
+msgid "The Excerpt"
+msgstr ""
+
+#: theme/metabox.post.php:27 theme/metabox.work.php:96
+msgid "Hand-crafted summary of your content"
+msgstr ""
+
+#: theme/metabox.post.php:46
+msgid "Post Page Style"
+msgstr ""
+
+#: theme/metabox.work.php:18
+msgid "Disabled"
+msgstr ""
+
+#: theme/metabox.work.php:18
+msgid "Auto"
+msgstr ""
+
+#: theme/metabox.work.php:49
+msgid "Work Page Style"
+msgstr ""
+
+#: theme/setup.php:37
+msgid "Main Menu"
+msgstr ""
+
+#: theme/setup.php:38
+msgid "Footer Menu"
+msgstr ""
+
+#: theme/shortcode.contact.php:12
+msgid ""
+"<p><strong>Thank you</strong>. Your Message has been Sent.</p><p>We will "
+"respond to you shortly if your message requires a response.</p>"
+msgstr ""
+
+#: theme/shortcode.contact.php:23
+msgid "Send"
+msgstr ""
+
+#: theme/shortcode.contact.php:24
+msgid "Your Name"
+msgstr ""
+
+#: theme/shortcode.contact.php:25
+msgid "Your Email"
+msgstr ""
+
+#: theme/shortcode.contact.php:26
+msgid "Your Message"
+msgstr ""
+
+#: theme/shortcode.contact.php:91
+msgid "Message from"
+msgstr ""
+
+#: theme/widget.contact.php:9
+msgid "Contact"
+msgstr ""
+
+#: theme/widget.contact.php:13
+msgid "A widget that displays minimal &amp; accurate contact form."
+msgstr ""
+
+#: theme/widget.contact.php:21 theme/widget.dribbble.php:21
+#: theme/widget.flickr.php:21 theme/widget.twitter.php:21
+#: theme/widget.video.php:21
+msgid "Title"
+msgstr ""
+
+#: theme/widget.contact.php:25
+msgid "Form Description"
+msgstr ""
+
+#: theme/widget.contact.php:29
+msgid "Contact Email"
+msgstr ""
+
+#: theme/widget.contact.php:33
+msgid "No-Text Response"
+msgstr ""
+
+#: theme/widget.contact.php:38
+msgid "No-Email Response"
+msgstr ""
+
+#: theme/widget.dribbble.php:9
+msgid "Dribbble"
+msgstr ""
+
+#: theme/widget.dribbble.php:13
+msgid "A widget that displays your latest shots."
+msgstr ""
+
+#: theme/widget.dribbble.php:25
+msgid "Dribbble Username"
+msgstr ""
+
+#: theme/widget.dribbble.php:29
+msgid "Number of Shots"
+msgstr ""
+
+#: theme/widget.dribbble.php:34
+msgid "Follow Text e.g. Watch me on Dribbble"
+msgstr ""
+
+#: theme/widget.flickr.php:9
+msgid "Flickr"
+msgstr ""
+
+#: theme/widget.flickr.php:13
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: theme/widget.flickr.php:25
+msgid "Flickr ID"
+msgstr ""
+
+#: theme/widget.flickr.php:29
+msgid "Number of Photos"
+msgstr ""
+
+#: theme/widget.flickr.php:34
+msgid "Type (user or group)"
+msgstr ""
+
+#: theme/widget.flickr.php:39
+msgid "Display (random or latest)"
+msgstr ""
+
+#: theme/widget.twitter.php:9
+msgid "Twitter"
+msgstr ""
+
+#: theme/widget.twitter.php:13
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: theme/widget.twitter.php:25
+msgid "Twitter Username e.g. helloalaja"
+msgstr ""
+
+#: theme/widget.twitter.php:29
+msgid "Number of Tweets (max 20)"
+msgstr ""
+
+#: theme/widget.twitter.php:33
+msgid "Follow Text e.g. Follow on Twitter"
+msgstr ""
+
+#: theme/widget.video.php:9
+msgid "Video"
+msgstr ""
+
+#: theme/widget.video.php:13
+msgid ""
+"A widget that displays: Vimeo, Youtube, Blip, Dailymotion, Flickr, Hulu, "
+"Smugmug, Viddler or Qik Videos"
+msgstr ""
+
+#: theme/widget.video.php:25
+msgid "Video URL"
+msgstr ""
+
+#: theme/widget.video.php:29
+msgid "Or Custom Embed Code"
+msgstr ""
+
+#: theme/widget.video.php:35
+msgid "Short Description"
+msgstr ""
